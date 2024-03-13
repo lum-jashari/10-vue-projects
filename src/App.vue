@@ -1,9 +1,9 @@
 <script setup>
-import ConditionalRendering from "./Components/ConditionalRendering.vue";
+import IterationComponent from "./Components/IterationComponent.vue";
 </script>
 
 <template>
-  <ConditionalRendering />
+  <IterationComponent />
 </template>
 
 <style scoped></style>
