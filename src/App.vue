@@ -1,9 +1,9 @@
 <script setup>
-import IterationComponent from "./Components/IterationComponent.vue";
+import MyComponent from "./Components/MyComponent.vue";
 </script>
 
 <template>
-  <IterationComponent />
+  <MyComponent />
 </template>
 
 <style scoped></style>
