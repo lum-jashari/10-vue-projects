@@ -1,10 +1,9 @@
 <script setup>
-import ComputedProperties from "./Components/ComputedProperties.vue";
+import ConditionalRendering from "./Components/ConditionalRendering.vue";
 </script>
 
 <template>
-  <ComputedProperties />
+  <ConditionalRendering />
 </template>
 
 <style scoped></style>
-./Components/ComputedProperties.vue
