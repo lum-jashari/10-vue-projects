@@ -5,11 +5,13 @@
 // import AccordionComponent from "./Components/AccordionComponent.vue";
 // import FormValidation from "./Components/FormValidation.vue";
 // import PasswordGenerator from "./Components/PasswordGenerator.vue";
-import ProgressSteps from "./Components/ProgressSteps.vue";
+// import ProgressSteps from "./Components/ProgressSteps.vue";
+import DadJokes from "./Components/DadJokes.vue";
 </script>
 
 <template>
-  <ProgressSteps />
+  <DadJokes />
+  <!-- <ProgressSteps /> -->
   <!-- <PasswordGenerator /> -->
   <!-- <FormValidation /> -->
   <!-- <AccordionComponent /> -->
