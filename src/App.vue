@@ -1,9 +1,9 @@
 <script setup>
-import MyComponent from "./Components/MyComponent.vue";
+import TodoList from "./Components/TodoList.vue";
 </script>
 
 <template>
-  <MyComponent />
+  <TodoList />
 </template>
 
 <style scoped></style>
