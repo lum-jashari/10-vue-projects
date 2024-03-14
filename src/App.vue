@@ -7,11 +7,13 @@
 // import PasswordGenerator from "./Components/PasswordGenerator.vue";
 // import ProgressSteps from "./Components/ProgressSteps.vue";
 // import DadJokes from "./Components/DadJokes.vue";
-import GithubUsersSearch from "./Components/GithubUsersSearch.vue";
+// import GithubUsersSearch from "./Components/GithubUsersSearch.vue";
+import WikiClone from "./Components/WikiClone.vue";
 </script>
 
 <template>
-  <GithubUsersSearch />
+  <WikiClone />
+  <!-- <GithubUsersSearch /> -->
   <!-- <DadJokes /> -->
   <!-- <ProgressSteps /> -->
   <!-- <PasswordGenerator /> -->
