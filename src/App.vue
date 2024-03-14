@@ -4,11 +4,13 @@
 // import AmazingCalculator from "./Components/AmazingCalculator.vue";
 // import AccordionComponent from "./Components/AccordionComponent.vue";
 // import FormValidation from "./Components/FormValidation.vue";
-import PasswordGenerator from "./Components/PasswordGenerator.vue";
+// import PasswordGenerator from "./Components/PasswordGenerator.vue";
+import ProgressSteps from "./Components/ProgressSteps.vue";
 </script>
 
 <template>
-  <PasswordGenerator />
+  <ProgressSteps />
+  <!-- <PasswordGenerator /> -->
   <!-- <FormValidation /> -->
   <!-- <AccordionComponent /> -->
   <!-- <AmazingCalculator /> -->
