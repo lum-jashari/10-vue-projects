@@ -4,7 +4,7 @@
   <div class="nav">
     <input type="checkbox" id="nav-check" />
     <div class="nav-header">
-      <div class="nav-title">Vue 10 Projects</div>
+      <router-link to="/" class="nav-title">Vue 10 Projects</router-link>
     </div>
     <div class="nav-btn">
       <label for="nav-check">
@@ -55,6 +55,11 @@ body {
   font-size: 22px;
   color: #fff;
   padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.nav > .nav-header > .nav-title:hover {
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .nav > .nav-btn {
