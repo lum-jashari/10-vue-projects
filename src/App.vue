@@ -1,11 +1,13 @@
 <script setup>
 // import TodoList from "./Components/TodoList.vue";
 // import RandomQuoteGenerator from "./Components/RandomQuoteGenerator.vue";
-import AmazingCalculator from "./Components/AmazingCalculator.vue";
+// import AmazingCalculator from "./Components/AmazingCalculator.vue";
+import AccordionComponent from "./Components/AccordionComponent.vue";
 </script>
 
 <template>
-  <AmazingCalculator />
+  <AccordionComponent />
+  <!-- <AmazingCalculator /> -->
   <!-- <RandomQuoteGenerator /> -->
   <!-- <TodoList /> -->
 </template>
