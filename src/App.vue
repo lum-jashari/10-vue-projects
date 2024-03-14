@@ -6,11 +6,13 @@
 // import FormValidation from "./Components/FormValidation.vue";
 // import PasswordGenerator from "./Components/PasswordGenerator.vue";
 // import ProgressSteps from "./Components/ProgressSteps.vue";
-import DadJokes from "./Components/DadJokes.vue";
+// import DadJokes from "./Components/DadJokes.vue";
+import GithubUsersSearch from "./Components/GithubUsersSearch.vue";
 </script>
 
 <template>
-  <DadJokes />
+  <GithubUsersSearch />
+  <!-- <DadJokes /> -->
   <!-- <ProgressSteps /> -->
   <!-- <PasswordGenerator /> -->
   <!-- <FormValidation /> -->
