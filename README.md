@@ -1,35 +1,15 @@
-# 10-vue-projects
+# Vue.js Mini-Apps Collection
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to my Vue.js Mini-Apps Collection! This repository contains a series of small web applications developed while learning Vue.js. Each mini-app showcases different features and functionalities of Vue.js and aims to demonstrate its versatility and ease of use.
 
-## Recommended IDE Setup
+## Technologies Used
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Vue.js
+- HTML
+- CSS
+- JavaScript
+- Axios
 
-## Customize configuration
+## Screenshots
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+![App Screenshot](public/wiki-clone-screenshot.jpg)
